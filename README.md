@@ -2,8 +2,10 @@
 Portfolio Website - m0ham3d.com
 --->
 <p align="center">
+<a href="https://twitter.com/m0ham3dxx" target="_blank">
 <img src="https://img.shields.io/twitter/follow/m0ham3dxx?style=social">
 </p>
+</a>
 <p align="center">
 <a href="https://twitter.com/m0ham3dxx" target="_blank">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fm0ham3dx&count_bg=%234C0070&title_bg=%23000000&icon=openaccess.svg&icon_color=%23E7E7E7&title=agents&edge_flat=false"/>
@@ -13,5 +15,3 @@ Portfolio Website - m0ham3d.com
 </a>
   <img src="al.gif" alt="m0ham3dx" width="1000"/>
 </p>
-
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/m0ham3dxx?style=social">
