@@ -14,3 +14,4 @@ Portfolio Website - m0ham3d.com
   <img src="al.gif" alt="m0ham3dx" width="1000"/>
 </p>
 
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/m0ham3dxx?style=social">
