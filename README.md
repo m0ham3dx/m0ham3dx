@@ -24,7 +24,7 @@ Portfolio Website - m0ham3d.com
 <a href="https://twitter.com/m0ham3dxx" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api?username=m0ham3dx&show_icons=true&theme=radical" width=400>
 <a href="https://twitter.com/m0ham3dxx" target="_blank">
-<img src="https://activity-graph.herokuapp.com/graph?username=m0ham3dx&theme=react-dark" width="450">
+<img src="https://activity-graph.herokuapp.com/graph?username=m0ham3dx&theme=react-dark" width="400">
 </a>
 </p>
 
