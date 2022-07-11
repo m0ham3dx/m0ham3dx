@@ -25,3 +25,5 @@ Portfolio Website - m0ham3d.com
 <img src="https://github-readme-stats.vercel.app/api?username=m0ham3dx&show_icons=true&theme=radical">
 </a>
 </p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=m0ham3dx&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
