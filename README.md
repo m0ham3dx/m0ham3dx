@@ -20,3 +20,8 @@ Portfolio Website - m0ham3d.com
 </p>
 
 
+<p align="center">
+<a href="https://twitter.com/m0ham3dxx" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api?username=m0ham3dx&show_icons=true&theme=radical">
+</a>
+</p>
