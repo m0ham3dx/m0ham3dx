@@ -16,7 +16,7 @@ Portfolio Website - m0ham3d.com
   <img src="https://img.shields.io/badge/GMI-yes-red.svg?style=flat-squre&logo=cachet&labelColor=black&color=1E5128">
   <img src="mxxx.png" alt="m0ham3dx" width="1000"/>
 </a>
-  <img src="al.gif" alt="m0ham3dx" width="1000"/>
+  <img src="al.gif" alt="m0ham3dx">
 </p>
 
 
