@@ -2,8 +2,6 @@
 Portfolio Website - m0ham3d.com
 --->
 <p align="center">
-<a href="https://twitter.com/m0ham3dxx" target="_blank">
-<img src="https://img.shields.io/twitter/follow/m0ham3dxx?style=social">
 <a href="https://www.youtube.com/channel/UClypqHQkhsNZSD0eRmN3Piw" target="_blank">
 <img src="https://img.shields.io/youtube/channel/subscribers/UClypqHQkhsNZSD0eRmN3Piw?style=social">
 </a>
